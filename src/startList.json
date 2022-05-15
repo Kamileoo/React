@@ -1,0 +1,11 @@
+{
+    "items": [
+        {
+            "id": 0,
+            "name": "Mr. Robot",
+            "description": "Movie about hacker",
+            "image": "./posters/1.jpg",
+            "rating": "2"
+        }
+    ]
+}
